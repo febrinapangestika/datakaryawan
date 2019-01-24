@@ -1,5 +1,5 @@
 # Tugas Java
-Input data Karyawan dan Report Daya Karyawan
+Input data Karyawan dan Report Data Karyawan
 
 ## Input Data
 
